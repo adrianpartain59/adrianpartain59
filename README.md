@@ -18,3 +18,7 @@ I'm a computer science student at the University of Oregon interested in game de
 
 ## Languages
 Python, C Sharp
+
+## Projects
+Algol Run - A space themed infinite runner game
+AlphaStudyAI - A web app for students that helps you study any topic
