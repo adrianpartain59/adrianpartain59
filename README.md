@@ -17,4 +17,4 @@ Here are some ideas to get you started:
 I'm a computer science student at the University of Oregon interested in game development and UI/UX design. I am creative, driven, and innovative, and I'm always searching for new projects to work on.
 
 ## Languages
-# Python # C Sharp
+Python, C Sharp
