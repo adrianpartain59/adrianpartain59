@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-I'm a computer science student at the University of Oregon interested in game development and UI/UX design. I am creative, driven, and innovative, and I'm always searching for new projects to work on.
+I'm a computer science student at the University of Oregon interested in game development and UI/UX design. I am creative, driven, and innovative, and am always searching for new projects to work on.
 
 ## 🛠️ Languages
 [![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)](#)[![C#](https://custom-icon-badges.demolab.com/badge/C%23-%23239120.svg?logo=cshrp&logoColor=white)](#)
