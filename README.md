@@ -16,10 +16,10 @@ Here are some ideas to get you started:
 -->
 I'm a computer science student at the University of Oregon interested in game development and UI/UX design. I am creative, driven, and innovative, and I'm always searching for new projects to work on.
 
-## Languages
+## 🛠️ Languages
 Python, C Sharp
 
-## Projects
+## 👾 Projects
 Algol Run - A space themed infinite runner game
 
 AlphaStudyAI - A web app for students that helps you study any topic
