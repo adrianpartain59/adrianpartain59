@@ -21,4 +21,5 @@ Python, C Sharp
 
 ## Projects
 Algol Run - A space themed infinite runner game
+
 AlphaStudyAI - A web app for students that helps you study any topic
