@@ -1,19 +1,8 @@
-<h1 align="center"><a href="https://adrianpartain.com">Adrian Partain</a></h1>
+# Adrian Partain
 
-<p align="center">
-  <a href="https://adrianpartain.com"><b>adrianpartain.com</b></a>
-</p>
+**[adrianpartain.com](https://adrianpartain.com)**
 
-<p align="center">
-  <b>I build apps end to end: design, code and the paywall.</b><br>
-  Founding engineer at <a href="https://pepaiapp.com">Pep AI</a> · founder of <a href="https://miloeating.com">Milo</a>
-</p>
-
-<p align="center">
-  <a href="https://cal.com/adrian-partain-zrj5nw">Book a call</a> ·
-  <a href="https://www.linkedin.com/in/adrianpartain/">LinkedIn</a> ·
-  <a href="mailto:adrianpartain@outlook.com">Email</a>
-</p>
+I build apps end to end: design, code and the paywall. Founding engineer at Pep AI and founder of Milo.
 
 <br>
 
@@ -98,4 +87,4 @@ Also: [Point Cloud Visualizer](https://adrianpartain59.github.io/PointCloudVisua
 
 I started with games, then moved to apps, tools and AI. These days I'm into AI design tools, 3D in the browser and music discovery. I studied computer science at the University of Oregon.
 
-<p align="center"><br><a href="https://adrianpartain.com"><b>adrianpartain.com →</b></a></p>
+More at [adrianpartain.com](https://adrianpartain.com).
