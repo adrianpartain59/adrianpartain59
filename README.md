@@ -1,8 +1,22 @@
+<table>
+<tr>
+<td width="50%" valign="middle">
+<picture>
+<source media="(prefers-color-scheme: dark)" srcset="assets/ascii-portrait-dark.png">
+<img src="assets/ascii-portrait-light.png" alt="ASCII art portrait of Adrian Partain">
+</picture>
+</td>
+<td width="50%" valign="middle">
+
 # Adrian Partain
 
 **[adrianpartain.com](https://adrianpartain.com)**
 
 I build apps end to end: design, code and the paywall. Founding engineer at Pep AI and founder of Milo.
+
+</td>
+</tr>
+</table>
 
 <br>
 
