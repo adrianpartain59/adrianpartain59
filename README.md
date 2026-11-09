@@ -2,8 +2,8 @@
 <tr>
 <td width="50%" valign="middle">
 <picture>
-<source media="(prefers-color-scheme: dark)" srcset="assets/ascii-portrait-dark.png">
-<img src="assets/ascii-portrait-light.png" alt="ASCII art portrait of Adrian Partain">
+<source media="(prefers-color-scheme: dark)" srcset="assets/portrait-ascii-dark.png">
+<img src="assets/portrait-ascii-light.png" alt="ASCII art portrait of Adrian Partain">
 </picture>
 </td>
 <td width="50%" valign="middle">
